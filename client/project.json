@@ -1,0 +1,12 @@
+{
+    "project_type": "javascript",
+    "debugMode"     : 1,
+    "frameRate"     : 60,
+    "id"            : "gameCanvas",
+    "showFPS"       : true,
+    "noCache"       : false,
+    "renderMode"    : 0,
+    "modules"       :["cocos2d", "extensions", "howler", "timer"],
+    "jsList"        :[]
+
+}
