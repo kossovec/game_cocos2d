@@ -5,3 +5,5 @@ cd game_cocos2d/client <br />
 npm i <br />
 gulp <br />
 npm start<br />
+
+the second and third task in file testTask.js
